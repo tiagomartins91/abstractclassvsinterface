@@ -1,4 +1,4 @@
-# Demo Example Abstract Class vs Interface
+# Abstract Class vs Interface Demo Example
 
 ## Interface and Abstract Class are used for abstraction.
 
